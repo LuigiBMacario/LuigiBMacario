@@ -125,9 +125,9 @@ C                        1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 <h2>Comeram os meus commits!!! 🐍</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/3ecd7f0c2bdf900f419873bf56345c5007c9f06c/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/f636d12488ebc3704627dfeaf8a9617e16a83acc/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/3ecd7f0c2bdf900f419873bf56345c5007c9f06c/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/f636d12488ebc3704627dfeaf8a9617e16a83acc/github-contribution-grid-snake.svg" />
 </picture>
 
 <div style='display:flex; gap: 20px'>
