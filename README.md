@@ -86,6 +86,8 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 > 📦 159.6 kB Usado no armazenamento do GitHub 
  > 
+> 🏆 19 Contribuições no ano de 2025
+ > 
 > 💼 Aberto para contratação
  > 
 > 📜 6 Repositórios Públicos 
@@ -95,9 +97,9 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  3 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.61 % 
-🌆 Tarde                  95 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   82.61 % 
-🌃 Noite                  17 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.78 % 
+🌞 Manhã                  3 commits           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.59 % 
+🌆 Tarde                  96 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   82.76 % 
+🌃 Noite                  17 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.66 % 
 🌙 Madrugada              0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 ```
 
