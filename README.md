@@ -19,7 +19,7 @@
 <h2>📍 Sobre Mim:</h2>
 
 <div style='border: 1px solid; border-color: #2F2F2F; border-radius: 3px; background-color: #2A2A2A; padding: 12px'>
-    <p>Sou estudante de Ciência da Computação e estou começando minha jornada para me tornar um desenvolvedor Full-Stack. Minha paixão por tecnologia veio desde cedo, com uma influência familiar que me inspirou a seguir esse caminho. Comecei aprendendo Python, mas foi com C e suas variantes que realmente me encontrei! Gosto também de desenvolvimento web com HTML, CSS e JavaScript, além de explorar criação de sites com Wordpress e jogos com Unity e Unreal. Fora do universo dev, curto explorar design vetorial, edição de imagem e 3D, com ferramentas como Blender e Substance Painter.
+    <p>Sou estudante de Ciência e Tecnologia na Universidade Federal do Rio Grande do Sul (UFRGS) e estou começando minha jornada para me tornar um desenvolvedor Full-Stack. Minha paixão por tecnologia veio desde cedo, com uma influência familiar que me inspirou a seguir esse caminho. Comecei aprendendo Python, mas foi com C e suas variantes que realmente me encontrei! Gosto também de desenvolvimento web com HTML, CSS e JavaScript, além de explorar criação de sites com Wordpress e jogos com Unity e Unreal. Fora do universo dev, curto explorar design vetorial, edição de imagem e 3D, com ferramentas como Blender e Substance Painter.
 
 Este é meu espaço para compartilhar o que estou aprendendo e construir projetos, seja em scripts, ferramentas ou experimentos visuais. Quero contribuir e também aprender com a comunidade, sempre que possível, e estou de portas abertas para colaborar e trocar ideias com outros devs.</p>
 </div><br>
@@ -33,7 +33,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 🌱 Projetos Atuais: 
 
 <div style='border: 1px solid; border-color: #2F2F2F; border-radius: 3px; background-color: #2A2A2A; padding: 12px'>
-    <p>Atualmente, estou desenvolvendo um site que incorpora gráficos animados e automatizados a partir de dados em tempo real. Também estou em constante aprimoramento na criação de interfaces intuitivas e responsivas.</p>
+    <p> Atualmente estou desenvolvendo (em doses omeopaticas) uma plataforma aqui no GH de games curtos para passar o tempo.</p>
 </div><br>
 
 💡 Interesses Pessoais: 
