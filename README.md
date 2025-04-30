@@ -30,11 +30,10 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
     <p>Sou apaixonado por game development, mas gosto de qualquer desafio em que eu possa escrever linhas de código. Adoro explorar novas tecnologias e aplicações, sempre com o objetivo de criar algo útil e inovador.</p>
 </div><br>
 
-🌱 Projetos Atuais: 
+🌱 Projetos Atuais:
 
-<div style='border: 1px solid; border-color: #2F2F2F; border-radius: 3px; background-color: #2A2A2A; padding: 12px'>
-    <p> Atualmente estou desenvolvendo (em doses omeopaticas) uma plataforma aqui no GH de games curtos para passar o tempo. E um jogo em java para android que pode ser consultado no repositório [ProjectJO10](https://github.com/LuigiBMacario/ProjectJO10)</p>
-</div><br>
+> Atualmente estou desenvolvendo (em doses homeopáticas) uma plataforma aqui no GH de games curtos para passar o tempo.  
+> E um jogo em Java para Android que pode ser consultado no repositório [ProjectJO10](https://github.com/LuigiBMacario/ProjectJO10).
 
 💡 Interesses Pessoais: 
 
