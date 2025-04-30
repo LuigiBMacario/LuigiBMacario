@@ -33,7 +33,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 🌱 Projetos Atuais: 
 
 <div style='border: 1px solid; border-color: #2F2F2F; border-radius: 3px; background-color: #2A2A2A; padding: 12px'>
-    <p> Atualmente estou desenvolvendo (em doses omeopaticas) uma plataforma aqui no GH de games curtos para passar o tempo.</p>
+    <p> Atualmente estou desenvolvendo (em doses omeopaticas) uma plataforma aqui no GH de games curtos para passar o tempo. E um jogo em java para android que pode ser consultado no repositório [ProjectJO10](https://github.com/LuigiBMacario/ProjectJO10)</p>
 </div><br>
 
 💡 Interesses Pessoais: 
