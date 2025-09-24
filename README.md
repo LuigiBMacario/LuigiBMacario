@@ -75,6 +75,8 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luigibmacario@gmail.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-681.4%20thousand%20linhas%20de%20c%C3%B3digo-blue)
@@ -83,7 +85,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 > 📦 159.8 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 286 Contribuições no ano de 2025
+> 🏆 287 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -91,6 +93,23 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
  > 
 > 🔑 2 Repositórios Privados 
  > 
+**Eu sou diurno 🐤** 
+
+```text
+🌞 Manhã                  19 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.83 % 
+🌆 Tarde                  346 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   88.04 % 
+🌃 Noite                  26 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.62 % 
+🌙 Madrugada              2 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.51 % 
+```
+
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+```
+
 **Eu geralmente programo em CSS** 
 
 ```text
