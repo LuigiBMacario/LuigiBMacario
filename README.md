@@ -83,7 +83,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 > 📦 159.8 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 326 Contribuições no ano de 2025
+> 🏆 327 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -91,23 +91,6 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
  > 
 > 🔑 2 Repositórios Privados 
  > 
-**Eu sou diurno 🐤** 
-
-```text
-🌞 Manhã                  19 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.44 % 
-🌆 Tarde                  385 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   89.95 % 
-🌃 Noite                  22 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.14 % 
-🌙 Madrugada              2 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.47 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🔥 Editores: 
-Nenhuma atividade rastreada esta semana
-```
-
 **Eu geralmente programo em CSS** 
 
 ```text
