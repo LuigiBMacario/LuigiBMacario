@@ -32,8 +32,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 🌱 Projetos Atuais:
 
-> Atualmente estou desenvolvendo (em doses homeopáticas) uma plataforma aqui no GH de games curtos para passar o tempo.  
-> E um jogo em Java para Android que pode ser consultado no repositório [ProjectJO10](https://github.com/LuigiBMacario/ProjectJO10).
+> Estou desenvolvendo uma Dashboard da F1. 
 
 💡 Interesses Pessoais: 
 
@@ -131,16 +130,3 @@ C                        1 repo              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/f636d12488ebc3704627dfeaf8a9617e16a83acc/github-contribution-grid-snake.svg" />
 </picture>
-
-<div style='display:flex; gap: 20px'>
-    <div>
-        <h2>🎧 O que eu geralmente escuto:</h2>
-        <img alt='Ultímas músicas tocadas no Spotify' src='https://spotify-recently-played-readme.vercel.app/api?user=31xfk7jjff526bymiwv4p4qhqq24'>
-    </div>
-    <div>
-        <h2>🎮 Vamos jogar qualquer dia!</h2>
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamsamcee/)
-[![LoL](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/br/Samcee-SCAM)
-    </div>
-</div>
