@@ -82,9 +82,9 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 159.7 kB Usado no armazenamento do GitHub 
+> 📦 159.8 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 362 Contribuições no ano de 2025
+> 🏆 363 Contribuições no ano de 2025
  > 
 > 💼 Aberto para contratação
  > 
@@ -95,9 +95,9 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  20 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.37 % 
-🌆 Tarde                  413 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.17 % 
-🌃 Noite                  23 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.02 % 
+🌞 Manhã                  20 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.36 % 
+🌆 Tarde                  414 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.20 % 
+🌃 Noite                  23 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.01 % 
 🌙 Madrugada              2 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.44 % 
 ```
 
