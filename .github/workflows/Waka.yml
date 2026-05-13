@@ -29,4 +29,4 @@ jobs:
           SHOW_UPDATED_DATE: False
           SHOW_LANGUAGE: False
           SYMBOL_VERSION: 3
-          Locale: "pt-BR"
+          Locale: "pt_BR"
