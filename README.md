@@ -2,7 +2,7 @@
 
 <div class="tg-wrap"><table><tbody>
   <tr>
-    <td colspan="2"><img style='height: 150px' class='stats' align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" /></td>
+    <td colspan="2"><img style='height: 150px' class='stats' align="center" src="https://github-stats-extended.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" /></td>
     <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></td>
     <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></td>
     <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_current_streak=true&hide_border=true" alt="GitHub Streak" /></td>
