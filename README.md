@@ -84,7 +84,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 > 📦 159.8 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 65 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -95,9 +95,9 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.94 % 
-🌆 Daytime                491 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.84 % 
-🌃 Evening                44 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.87 % 
+🌞 Morning                22 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.93 % 
+🌆 Daytime                492 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.86 % 
+🌃 Evening                44 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.86 % 
 🌙 Night                  2 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.36 % 
 ```
 
@@ -106,7 +106,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code                  40 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
